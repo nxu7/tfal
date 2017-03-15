@@ -3,6 +3,8 @@
 # 3 cases to test the timer
 #
 
+
+#defg
 CC := gcc
 CFLAGS := -Wall -g
 DIR := $(shell pwd)
