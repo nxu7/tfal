@@ -18,7 +18,7 @@ int _ntz(unsigned int x)
 }
 
 /*
- *
+ *asdasdasd
  *	get an id to use
  */
 int _getidx(unsigned int mask)
